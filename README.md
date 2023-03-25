@@ -1,39 +1,44 @@
 # Ge Su's professional Portfolio
 
-# Description
+## Description
 
-Welcome to my professional portfolio repository! This portfolio contains the code and assets for my personal homepage website, showcasing my professional skills and projects.
+Welcome to [my professional portfolio repository!]() This portfolio contains the code and assets for my personal homepage website, showcasing my professional skills and projects.
 
 
-# Technologies Used
-  JavaScript
-  HTML
-  CSS
-  Git
+## Technologies Used
 
-# Installation 
-To install this portfolio, simply clone this repository to your local machine using Git:
+HTML
+CSS
+[Git](https://education.github.com/)
 
-Some basic Git commands are:
+## Installation 
+
+To install this portfolio, simply clone this repository to your local machine using Git: ![my screenshot](./assets/images/Screenshot%20(4).png)
+
+Some basic Git commands ([Git commands line](https://education.github.com/git-cheat-sheet-education.pdf)) are:
 ```
+git clone
 git status
 git add
 git commit
 ```
 
-# Usage
+## Usage
 N/A
 
-# Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-# Credits
+## Credits
 N/A
 
-# License
+## License
 Please refer to the LICENSE in the repo.
 
-Welcome to [my github page](https://github.com/gesu001).
+## 💡 Notes
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-![My screenshot](./assets/images/Screenshot%20(3).png)
+Refer to the documentation:
+
+* Welcome to [my github page](https://github.com/gesu001).
+
+© 2023 Melbourne. Confidential and Proprietary. All Rights Reserved.
