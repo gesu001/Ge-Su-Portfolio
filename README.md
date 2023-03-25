@@ -8,14 +8,16 @@ Welcome to [my professional portfolio repository!]() This portfolio contains the
 ## Technologies Used
 
 HTML
+
 CSS
-[Git](https://education.github.com/)
+
+Git
 
 ## Installation 
 
 To install this portfolio, simply clone this repository to your local machine using Git: ![my screenshot](./assets/images/Screenshot%20(4).png)
 
-Some basic Git commands ([Git commands line](https://education.github.com/git-cheat-sheet-education.pdf)) are:
+Some basic Git commands are:
 ```
 git clone
 git status
@@ -39,6 +41,10 @@ Please refer to the LICENSE in the repo.
 
 Refer to the documentation:
 
-* Welcome to [my github page](https://github.com/gesu001).
+* [Ge Su github page](https://github.com/gesu001)
+
+* [Git](https://education.github.com/)
+
+* [Git commands line](https://education.github.com/git-cheat-sheet-education.pdf)
 
 © 2023 Melbourne. Confidential and Proprietary. All Rights Reserved.
