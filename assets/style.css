@@ -28,12 +28,12 @@ header h1 {
   color: black;
   font-size: 65px;
   text-transform: uppercase;
- 
   align-items: center;
 }
 
 header img {
   width: 250px;
+  padding: 15px;
 }
 
 /* nav */
@@ -144,6 +144,10 @@ footer {
     width: 100%;
     }
 
+    nav {
+      background-color: cornflowerblue;
+    }
+
 }
 @media screen and (max-width: 576px) {
   header, aside, .content, .card
@@ -155,5 +159,14 @@ footer {
 
     header h3 {
       order: 3;
+      font-size: 20px;
+    }
+    header img {
+      width: 150px;
+      padding: 10px;
+    }
+    
+    nav {
+      background-color: aquamarine;
     }
 }
